@@ -12,9 +12,9 @@ Pixel Art Maker using HTML, CSS and JavaScript.
 
 ### On Drag State
 
-![On Drag State](/images/Drag.PNG)
+![On Drag State](/images/Drag.png)
 
 ### Links
 
-- Solution URL: [Repository here](https://github.com/Shub-hamburger/Star-Rating-System)
-- Live Site URL: [Live here](https://shub-hamburger.github.io/Star-Rating-System/)
+- Solution URL: [Repository here](https://github.com/Shub-hamburger/Pixel-Art-Maker)
+- Live Site URL: [Live here](https://shub-hamburger.github.io/Pixel-Art-Maker/)
